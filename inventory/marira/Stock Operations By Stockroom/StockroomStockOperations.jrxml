@@ -201,7 +201,7 @@ ORDER BY operation_date ASC]]>
 				<textElement textAlignment="Center">
 					<font size="24"/>
 				</textElement>
-				<text><![CDATA[AIC Marira Clinic]]></text>
+				<text><![CDATA[St JAMES HOSPITAL]]></text>
 			</staticText>
 			<staticText>
 				<reportElement uuid="6fa9b3ac-d4c3-40cc-bbfc-7ea30eda1b0d" x="0" y="30" width="802" height="20"/>
