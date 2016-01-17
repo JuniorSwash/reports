@@ -68,7 +68,7 @@ ORDER BY
 				<textElement textAlignment="Center">
 					<font size="24"/>
 				</textElement>
-				<text><![CDATA[AIC Marira Clinic]]></text>
+				<text><![CDATA[St JAMES HOSPITAL]]></text>
 			</staticText>
 		</band>
 	</title>
