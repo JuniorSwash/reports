@@ -106,7 +106,7 @@ Tel: 020-324 6500]]></text>
 				<textElement textAlignment="Center">
 					<font size="24"/>
 				</textElement>
-				<text><![CDATA[AIC Marira Clinic]]></text>
+				<text><![CDATA[St JAMES MEMORIAL HOSPITAL]]></text>
 			</staticText>
 			<textField isStretchWithOverflow="true" isBlankWhenNull="true">
 				<reportElement uuid="7b2e440f-7554-4c7d-9026-24e120ed9d6b" x="0" y="135" width="555" height="20"/>
