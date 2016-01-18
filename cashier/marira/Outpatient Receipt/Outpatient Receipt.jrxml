@@ -125,7 +125,7 @@ FROM provider
 				<textElement>
 					<font fontName="Arial" isBold="true"/>
 				</textElement>
-				<text><![CDATA[AIC Marira Clinic]]></text>
+				<text><![CDATA[St JAMES MEMORIAL HOSPITAL]]></text>
 			</staticText>
 			<staticText>
 				<reportElement uuid="f69c59f0-1b48-4790-8ac6-5a4af25e7ecb" x="0" y="14" width="191" height="25"/>
