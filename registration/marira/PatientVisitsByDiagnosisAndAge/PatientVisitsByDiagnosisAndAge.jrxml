@@ -43,7 +43,7 @@ GROUP BY c.concept_id, cn.name]]>
 				<textElement textAlignment="Center">
 					<font size="24"/>
 				</textElement>
-				<text><![CDATA[AIC Marira Clinic]]></text>
+				<text><![CDATA[St JAMES MEMORIAL HOSPITAL]]></text>
 			</staticText>
 		</band>
 	</title>
