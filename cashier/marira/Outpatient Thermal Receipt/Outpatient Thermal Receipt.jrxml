@@ -79,8 +79,8 @@ WHERE
 				<textElement textAlignment="Center">
 					<font fontName="Arial" size="10"/>
 				</textElement>
-				<text><![CDATA[St JAMES MEMORIAL
-HOSPITAL
+				<text><![CDATA[St JAMES MEMORIAL HOSPITAL
+ADDRESS: P.O.BOX 355
 BUTERE]]></text>
 			</staticText>
 			<textField>
